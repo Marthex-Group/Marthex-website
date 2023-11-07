@@ -1,0 +1,14 @@
+{
+    "cors": {
+      "enabled": true,
+      "origin": ["https://your-production-domain.com"],  
+      "headers": [
+        "Content-Type",
+        "Authorization",
+        "X-Frame-Options",
+        "Origin",
+        "Accept"
+      ]
+    }
+  }
+  
